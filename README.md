@@ -1,0 +1,1 @@
+# temperature-exporter-k8s
